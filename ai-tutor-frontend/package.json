@@ -1,0 +1,39 @@
+{
+  "name": "ai-tutor-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the AI Tutor multi-agent system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^10.4.21",
+    "axios": "^0.21.1",
+    "katex": "^0.16.22",
+    "next": "^12.0.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.7",
+    "rehype-katex": "^7.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-math": "^6.0.0",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^12.0.7",
+    "postcss": "^8.5.4"
+  },
+  "keywords": [
+    "AI",
+    "Tutor",
+    "Multi-Agent",
+    "Frontend"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
