@@ -4,3 +4,4 @@ google-generativeai
 google-genai
 python-dotenv
 openai
+uvicorn
