@@ -4,11 +4,11 @@
 from openai import OpenAI
 
 class PhysicsAgent:
-    def handle(self,query):
+    def handle(self,query,api):
         # return ask_gemini(query)
         client = OpenAI(
         base_url = "https://integrate.api.nvidia.com/v1",
-        api_key = "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"
+        api_key = api
         )
         detailed_thinking = ("detailed thinking on"
                         "You know everything about physics subject. "
