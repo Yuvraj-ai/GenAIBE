@@ -1,0 +1,5 @@
+fastapi
+sympy
+google-generativeai
+python-dotenv
+openai
