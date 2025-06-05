@@ -27,6 +27,9 @@ The primary objective of this project is to create an intelligent and adaptable 
 *   Utilizes tools (e.g., calculator) for enhanced problem-solving capabilities.
 *   Interactive and responsive user interface.
 
+## Demo
+![Demo](demo.gif)
+
 ## Technologies Used
 
 ### Frontend
@@ -185,4 +188,4 @@ Contributions are welcome! Please follow standard open-source contribution pract
 
 ## License
 
-[Specify your project's license here, e.g., MIT License]
+[None]
